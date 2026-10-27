@@ -1,0 +1,18 @@
+{
+  "name": "SmartCorp Herramientas 360",
+  "short_name": "SmartCorp",
+  "description": "Sistema Móvil de Gestión y Resguardo de Herramientas SmartCorp",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0b132b",
+  "theme_color": "#0b132b",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
