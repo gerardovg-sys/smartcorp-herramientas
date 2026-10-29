@@ -1,6 +1,6 @@
 {
-  "version": "22.3.0",
-  "buildTime": 1793313400000,
-  "release": "2026-10-29 17:00",
-  "notes": "Actualización de icono de la aplicación oficial (Llave azul y morado para PWA/móvil)"
+  "version": "22.4.0",
+  "buildTime": 1793316000000,
+  "release": "2026-10-29 17:50",
+  "notes": "v22.4.0: Optimización móvil integral (zero overflow, dock con safe-area, tabs con scroll táctil, modales adaptados y firma calibrada)"
 }
