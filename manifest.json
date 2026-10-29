@@ -1,18 +1,31 @@
 {
   "name": "SmartCorp Herramientas 360",
-  "short_name": "SmartCorp",
+  "short_name": "SmartCorp Tools",
   "description": "Sistema Móvil de Gestión y Resguardo de Herramientas SmartCorp",
   "start_url": "/smartcorp-herramientas/",
+  "scope": "/smartcorp-herramientas/",
   "display": "standalone",
   "background_color": "#0b132b",
-  "theme_color": "#0b132b",
+  "theme_color": "#2563eb",
   "orientation": "portrait-primary",
   "icons": [
+    {
+      "src": "/smartcorp-herramientas/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/smartcorp-herramientas/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
     {
       "src": "/smartcorp-herramientas/favicon.svg",
       "sizes": "any",
       "type": "image/svg+xml",
-      "purpose": "any maskable"
+      "purpose": "any"
     }
   ]
 }

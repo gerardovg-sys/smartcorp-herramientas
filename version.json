@@ -1,6 +1,6 @@
 {
-  "version": "22.2.0",
-  "buildTime": 1793226200000,
-  "release": "2026-10-28 16:30",
-  "notes": "Actualización automática de versión SmartCorp Herramientas 360"
+  "version": "22.3.0",
+  "buildTime": 1793313400000,
+  "release": "2026-10-29 17:00",
+  "notes": "Actualización de icono de la aplicación oficial (Llave azul y morado para PWA/móvil)"
 }
